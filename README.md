@@ -1,9 +1,11 @@
 <h1 align="center">Hi 👋, I'm Jessica Albano Ferraz</h1>
 <h3 align="center">Ensuring Software Excellence | Agile QA | ISTQB Certified | 6+ Years in Software Testing | Data and AI student</h3>
 
-- 🌱 I’m currently learning **AI applied to Data with Copilot**
+📍 From <img src="https://cdn-icons-png.flaticon.com/512/197/197386.png" width="13"/> **Bilac, Brazil**, currently living in <img src="https://cdn-icons-png.flaticon.com/512/197/197441.png" width="13"/> **Utrecht, the Netherlands**
 
-- 📫 How to reach me **jeh.albano.ferraz@gmail.com**
+🌱 I’m currently learning **AI applied to Data with Copilot**
+
+📫 How to reach me **jeh.albano.ferraz@gmail.com**
 
 - ⚡ Fun fact **During my hardware course, while going through the learning steps again, I accidentally inserted my computer’s memory module inverted. This caused a short circuit, and before I knew it, my computer started to catch fire. Fortunately, I was able to put it out in time**
 
